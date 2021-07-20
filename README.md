@@ -22,5 +22,5 @@ Technologies:
 - Architecture Diagram
 
 
-![Optimizer Arch Flow V2](https://user-images.githubusercontent.com/49589589/126350840-71c7b907-0428-4cb1-80ec-af3591dad7c5.PNG)
+![Optimizer Arch Flow V3](https://user-images.githubusercontent.com/49589589/126358592-2bab5fcd-df99-44a0-b2b9-9fafb59ab2c8.PNG)
 
