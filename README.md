@@ -4,7 +4,7 @@ Technologies:
 
 - AWS Neptune 
   - Description: Fast Reliable Graph Database Built for the Cloud 
-  - Purpose: Neptune is a graph Database provided by AWS that connects data based on subject predicate object triplets
+  - Purpose: Neptune is a graph database provided by AWS that connects data based on subject predicate object triplets
  
 - AWS Lambda
   - Description: AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers, 
