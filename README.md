@@ -21,4 +21,5 @@ Technologies:
 - Architecture Diagram
 
 
-![Optimizer Architecture Flow](https://user-images.githubusercontent.com/49589589/126338835-2c037e76-45e5-47b7-81e1-7a0991ae914f.PNG)
+![Architecture Flow](https://user-images.githubusercontent.com/49589589/126341571-26ae860d-2217-4273-8e9a-d9b429b12f20.PNG)
+
