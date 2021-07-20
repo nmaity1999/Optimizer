@@ -16,5 +16,9 @@ Technologies:
   - Description: Create, maintain, and secure APIs at any scale
   - Purpose: API Gateway is a service that allows one to create an endpoint that in our case is linked to a function we have
              written with AWS Lambda which interacts with the graph database to form queries 
+             
+
+- Architecture Diagram
+
 
 ![Optimizer Architecture Flow](https://user-images.githubusercontent.com/49589589/126338835-2c037e76-45e5-47b7-81e1-7a0991ae914f.PNG)
